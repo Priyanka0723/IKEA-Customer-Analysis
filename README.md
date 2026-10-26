@@ -117,13 +117,13 @@ The folder and file names above are suggested examples. Include only files that 
 ## 🖼️ Dashboard Preview
 
 ### Home Page
-![Home Page](Screenshots/Screenshot 2026-10-26 184925.png)
+![Home Page](Screenshots/home.png)
 
 ### Business Overview
-![Business Overview](screenshots/business-overview.png)
+![Business Overview](Screenshots/business-overview.png)
 
 ### RFM Analysis
-![RFM Analysis](screenshots/rfm-analysis.png)
+![RFM Analysis](Screenshots/rfm-analysis.png)
 
 ## 📚 Skills Demonstrated
 
