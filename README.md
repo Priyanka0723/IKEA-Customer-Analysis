@@ -114,16 +114,18 @@ IKEA-Customer-Analytics/
 
 The folder and file names above are suggested examples. Include only files that are actually present in your repository and data that you are permitted to share.
 
-## 🖼️ Dashboard Preview
 
-### Home Page
-![Home Page](Screenshots/home.png)
+## 📊 Dashboard Screenshots
 
-### Business Overview
-![Business Overview](Screenshots/business-overview.png)
+### 1. Home Page
+![IKEA Customer Analytics Home Page](Screeshots/home.png)
 
-### RFM Analysis
-![RFM Analysis](Screenshots/rfm-analysis.png)
+### 2. Business Overview
+![Business Overview Dashboard](Screeshots/business-overview.png)
+
+### 3. RFM Analysis
+![RFM Analysis Dashboard](Screeshots/rfm-analysis.png)
+
 
 ## 📚 Skills Demonstrated
 
