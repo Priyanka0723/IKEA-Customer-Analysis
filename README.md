@@ -117,7 +117,7 @@ The folder and file names above are suggested examples. Include only files that 
 ## 🖼️ Dashboard Preview
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/Screenshot 2026-10-26 184925.png)
 
 ### Business Overview
 ![Business Overview](screenshots/business-overview.png)
